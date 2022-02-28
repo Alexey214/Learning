@@ -1,1 +1,4 @@
 /MyProject/out/
+/MyProject/.idea/
+*.iml
+/out/
